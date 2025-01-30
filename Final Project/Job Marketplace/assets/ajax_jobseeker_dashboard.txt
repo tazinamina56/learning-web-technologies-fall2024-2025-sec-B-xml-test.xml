@@ -1,0 +1,8 @@
+View Profile
+Edit Profile
+Job Search
+Job Application
+Change Profile Picture
+Notification
+About Us
+Logout

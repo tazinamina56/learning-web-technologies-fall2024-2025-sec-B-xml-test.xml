@@ -1,0 +1,10 @@
+View Profile
+Edit Profile
+Job Posting
+Candidate Management
+Change Profile Picture
+Notification
+Change Password
+About Us
+Logout
+
